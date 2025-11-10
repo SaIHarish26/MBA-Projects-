@@ -18,8 +18,8 @@ This mini-project, titled "**A Study on Analysis of Investors Behaviour Towards 
 ### 3. Full Major Project (Financial Literacy)
 **File:** `FULL MAJOR PROJECT.pdf`
 
-This is the final MBA major project, "**A Study on Financial Literacy Among the Professional Students in Madanapalle Revenue Division**." [cite_start]This research assesses the financial knowledge, attitudes, and behaviors of students in professional courses like MBA, MCA, and Engineering[cite: 711].
+This is the final MBA major project, "**A Study on Financial Literacy Among the Professional Students in Madanapalle Revenue Division**." This research assesses the financial knowledge, attitudes, and behaviors of students in professional courses like MBA, MCA, and Engineering.
 
-* [cite_start]**Key Finding:** Using a sample of 184 students [cite: 497][cite_start], the study found that while overall financial literacy is "generally low" [cite: 499, 1505][cite_start], a high percentage (70.1%) of students are interested in taking a financial course if offered[cite: 911, 1463].
-* [cite_start]**Methodology:** The analysis was performed using statistical tools like the **Chi-Square test, Correlation, and Regression** [cite: 498, 740, 741, 742] to test hypotheses.
-* [cite_start]**Analysis:** The project explores the link between demographics and literacy, revealing that a student's **educational qualification** has a significant association with their financial knowledge[cite: 1305, 1475]. [cite_start]Conversely, factors like **gender and age** were found to have no significant association[cite: 1286, 1296, 1473, 1474]. [cite_start]The project concludes with strong recommendations for integrating practical financial education into the college curriculum[cite: 1490, 1492].
+* **Key Finding:** Using a sample of 184 students, the study found that while overall financial literacy is "generally low", a high percentage (70.1%) of students are interested in taking a financial course if offered.
+* **Methodology:** The analysis was performed using statistical tools like the **Chi-Square test, Correlation, and Regression** to test hypotheses.
+* **Analysis:** The project explores the link between demographics and literacy, revealing that a student's **educational qualification** has a significant association with their financial knowledge. Conversely, factors like **gender and age** were found to have no significant association. The project concludes with strong recommendations for integrating practical financial education into the college curriculum.
